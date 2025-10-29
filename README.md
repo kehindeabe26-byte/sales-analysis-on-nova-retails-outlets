@@ -45,3 +45,4 @@ Mary Felix – 2.97.
 * Recognize and reward top-performing sales reps like Abdul Salim  
 * Monitor discount strategies to maintain healthy profit margins  
 * Prepare for seasonal peaks (e.g., February) with adequate inventory and staffing
+
