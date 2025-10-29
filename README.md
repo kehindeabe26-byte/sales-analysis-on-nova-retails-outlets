@@ -45,4 +45,12 @@ Mary Felix – 2.97.
 * Recognize and reward top-performing sales reps like Abdul Salim  
 * Monitor discount strategies to maintain healthy profit margins  
 * Prepare for seasonal peaks (e.g., February) with adequate inventory and staffing
+The sales performance analysis provided valuable insights into NovaRetail’s operations across different cities and product categories.
+ 
+## Conclusions
+The sales performance analysis provided valuable insights into NovaRetail’s operations across different cities and product categories.
+By understanding where revenue comes from and which areas underperform,
+the company can make more informed decisions on marketing, inventory, and customer engagement.
+
+<img width="4473" height="387" alt="image" src="https://github.com/user-attachments/assets/4545c69b-de67-488c-b005-2cd593d7ae24" />
 
