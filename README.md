@@ -23,6 +23,7 @@ The analysis focuses on total revenue, product categories, customer behavior, an
 * September 2024 recorded the highest monthly sales.
 * Revenue from new customers in Lagos accounted for 25630% of
 Lagos’s total sales.
+
 # Customer Insights
 * Total number of distinct customers was 77.
 * Returning customers generated more consistent sales.
